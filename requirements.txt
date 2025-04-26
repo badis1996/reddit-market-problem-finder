@@ -1,0 +1,16 @@
+praw==7.7.1
+OpenAI==1.6.0
+pandas==2.1.1
+tqdm==4.66.1
+python-dotenv==1.0.0
+schedule==1.2.0
+nltk==3.8.1
+textblob==0.17.1
+firebase-admin==6.2.0
+github==1.59.0
+fastapi==0.103.2
+uvicorn==0.23.2
+streamlit==1.27.2
+matplotlib==3.8.0
+seaborn==0.13.0
+requests==2.31.0
